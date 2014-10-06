@@ -2,3 +2,5 @@ test git for nothing.
 try push.
 insert some lines.
 try to fetch some changes.
+add some lines for branch testgit2.
+
